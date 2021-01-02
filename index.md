@@ -19,9 +19,9 @@ With Kai Wu, and Zejun Jin.
 With Kai Wu, and Zejun Jin.
 
 
-### Note Books
+## Note Books
 
-#### 破烂：数学与数据科学
+### 破烂：数学与数据科学
 
 【破烂：理论数学】目录
 
@@ -31,7 +31,7 @@ With Kai Wu, and Zejun Jin.
 
 【破烂：数据分析：实务】目录
 
-#### 破烂：人文与社会科学
+### 破烂：人文与社会科学
 
 【破烂：哲学】目录
 
@@ -47,6 +47,6 @@ With Kai Wu, and Zejun Jin.
 
 【破烂：历史学】目录
 
-#### 破烂：自然与工程科学
+### 破烂：自然与工程科学
 
 
