@@ -2,11 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/maobinxu/maobinxu.github.io/) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -26,9 +21,21 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). in the Jekyll `_config.yml` configuration file.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maobinxu/maobinxu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Education
 
+School of Finance, Central University of Finance and Economics, China
+
+
+### Working Papers
+
+[Intellectual Property Protection and Firm Innovation: Evidence from a Natural Experiment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3559108)
+With Kai Wu.
+
+[External Guarantees and Stock Price Crash Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3670543)
+With Kai Wu, and Zejun Jin.
+
+[Acquisition Aggressiveness and Economic Consequences of Performance Commitment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3632557)
+With Kai Wu, and Zejun Jin.
