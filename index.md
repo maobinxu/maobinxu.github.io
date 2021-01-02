@@ -1,4 +1,5 @@
-## <div align='center' >Maobin Xu (徐茂宾)</font></div>
+# Maobin Xu (徐茂宾)
+
 E-mail: xumaobin99@foxmail.com
 
 ```markdown
@@ -22,12 +23,12 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). in the Jekyll `_config.yml` configuration file.
 
 
-### Education
+## Education
 
 School of Finance, Central University of Finance and Economics, China
 
 
-### Working Papers
+## Working Papers
 
 [Intellectual Property Protection and Firm Innovation: Evidence from a Natural Experiment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3559108). 
 With Kai Wu.
