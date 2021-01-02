@@ -17,3 +17,14 @@ With Kai Wu, and Zejun Jin.
 
 [Acquisition Aggressiveness and Economic Consequences of Performance Commitment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3632557). 
 With Kai Wu, and Zejun Jin.
+
+
+### Note Books
+
+#### 破烂：数学与数据科学
+
+#### 破烂：人文与社会科学
+
+#### 破烂：自然与工程科学
+
+
