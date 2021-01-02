@@ -1,13 +1,13 @@
-# Maobin Xu (徐茂宾)
+## Maobin Xu (徐茂宾)
 
 E-mail: xumaobin99@foxmail.com
 
-## Education
+### Education
 
 School of Finance, Central University of Finance and Economics, China
 
 
-## Working Papers
+### Working Papers
 
 [Intellectual Property Protection and Firm Innovation: Evidence from a Natural Experiment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3559108). 
 With Kai Wu.
