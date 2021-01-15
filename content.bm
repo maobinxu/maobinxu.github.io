@@ -1,0 +1,362 @@
+{
+  "rootTopicKey": "2b0aa823-a35f-417c-96bc-3349bc172234",
+  "editorRootTopicKey": "2b0aa823-a35f-417c-96bc-3349bc172234",
+  "focusKey": "4cdc1bec-41f7-4c24-96a0-23a10059d409",
+  "extData": {},
+  "topics": [
+    {
+      "key": "4cdc1bec-41f7-4c24-96a0-23a10059d409",
+      "parentKey": "2b0aa823-a35f-417c-96bc-3349bc172234",
+      "subKeys": [
+        "461af536-34cb-4f6d-9c7c-046d5ab0f687",
+        "c8028ffa-ea56-4677-a373-aba839b3010a",
+        "ddf5d1e8-88d2-4732-b615-4e3c4eb82cdd"
+      ],
+      "collapse": false,
+      "style": "{\"subLinkStyle\":{\"lineType\":\"round\"}}",
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": ""
+        },
+        {
+          "type": "DESC",
+          "data": "ffffffffffffffffffffffffffffffffffffffffffff\n\n\n\nclass\nprint\\(ddd\\)"
+        },
+        {
+          "type": "TOPOLOGY",
+          "data": {
+            "nodes": [
+              {
+                "id": "e8720341",
+                "name": "pentagram",
+                "tags": [],
+                "rect": {
+                  "x": 205,
+                  "y": 92,
+                  "width": 231,
+                  "height": 231,
+                  "center": {
+                    "x": 320.5,
+                    "y": 207.5
+                  },
+                  "ex": 436,
+                  "ey": 323
+                },
+                "lineWidth": 1,
+                "rotate": 0,
+                "offsetRotate": 0,
+                "globalAlpha": 1,
+                "dash": 0,
+                "strokeStyle": "#222",
+                "fillStyle": "",
+                "font": {
+                  "color": "#222",
+                  "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+                  "fontSize": 12,
+                  "lineHeight": 1.5,
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                  "textAlign": "center",
+                  "textBaseline": "middle",
+                  "background": ""
+                },
+                "animateStart": 0,
+                "animateCycleIndex": 0,
+                "lineDashOffset": 0,
+                "text": "pentagram88",
+                "textOffsetX": 0,
+                "textOffsetY": 0,
+                "animateType": "",
+                "data": "",
+                "zRotate": 0,
+                "anchors": [
+                  {
+                    "x": 430.3470276320902,
+                    "y": 171.80853714969356,
+                    "direction": 2
+                  },
+                  {
+                    "x": 320.5,
+                    "y": 92,
+                    "direction": 1
+                  },
+                  {
+                    "x": 210.65297236790977,
+                    "y": 171.80853714969356,
+                    "direction": 4
+                  },
+                  {
+                    "x": 252.61080336021934,
+                    "y": 300.94146285030644,
+                    "direction": 3
+                  },
+                  {
+                    "x": 388.3891966397806,
+                    "y": 300.94146285030644,
+                    "direction": 3
+                  }
+                ],
+                "rotatedAnchors": [
+                  {
+                    "x": 430.3470276320902,
+                    "y": 171.80853714969356,
+                    "direction": 2
+                  },
+                  {
+                    "x": 320.5,
+                    "y": 92,
+                    "direction": 1
+                  },
+                  {
+                    "x": 210.65297236790977,
+                    "y": 171.80853714969356,
+                    "direction": 4
+                  },
+                  {
+                    "x": 252.61080336021934,
+                    "y": 300.94146285030644,
+                    "direction": 3
+                  },
+                  {
+                    "x": 388.3891966397806,
+                    "y": 300.94146285030644,
+                    "direction": 3
+                  }
+                ],
+                "animateDuration": 0,
+                "animateFrames": [],
+                "borderRadius": 0,
+                "iconSize": 0,
+                "imageAlign": "center",
+                "gradientAngle": 0,
+                "gradientRadius": 0.01,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingLeftNum": 0,
+                "paddingRightNum": 0,
+                "paddingTopNum": 0,
+                "paddingBottomNum": 0,
+                "fullTextRect": {
+                  "x": 274.3,
+                  "y": 161.3,
+                  "width": 92.4,
+                  "height": 92.4,
+                  "center": {
+                    "x": 320.5,
+                    "y": 207.5
+                  },
+                  "ex": 366.70000000000005,
+                  "ey": 253.70000000000002
+                },
+                "textRect": {
+                  "x": 274.3,
+                  "y": 161.3,
+                  "width": 92.4,
+                  "height": 92.4,
+                  "center": {
+                    "x": 320.5,
+                    "y": 207.5
+                  },
+                  "ex": 366.70000000000005,
+                  "ey": 253.70000000000002
+                },
+                "iconRect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "center": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "ex": 0,
+                  "ey": 0
+                }
+              }
+            ],
+            "lines": [],
+            "lineName": "curve",
+            "fromArrowType": "",
+            "toArrowType": "triangleSolid",
+            "scale": 1,
+            "locked": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "ddf5d1e8-88d2-4732-b615-4e3c4eb82cdd",
+      "parentKey": "4cdc1bec-41f7-4c24-96a0-23a10059d409",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": ""
+        }
+      ]
+    },
+    {
+      "key": "461af536-34cb-4f6d-9c7c-046d5ab0f687",
+      "parentKey": "4cdc1bec-41f7-4c24-96a0-23a10059d409",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": ""
+        }
+      ]
+    },
+    {
+      "key": "2b0aa823-a35f-417c-96bc-3349bc172234",
+      "parentKey": null,
+      "subKeys": [
+        "4cdc1bec-41f7-4c24-96a0-23a10059d409",
+        "8213ae14-a882-447e-aeb0-906facb9d048",
+        "088c60e0-0397-4914-afee-8c47a1a74c65",
+        "0c720ab4-60ca-4d4f-834b-7e12a41c42c7",
+        "af7c3424-6a77-408a-a3fb-01170c070e77"
+      ],
+      "collapse": false,
+      "style": "{\"linkStyle\":{\"lineType\":\"round\"},\"subLinkStyle\":{\"lineType\":\"round\"}}",
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "RootTopic"
+        }
+      ]
+    },
+    {
+      "key": "af7c3424-6a77-408a-a3fb-01170c070e77",
+      "parentKey": "2b0aa823-a35f-417c-96bc-3349bc172234",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": ""
+        }
+      ]
+    },
+    {
+      "key": "0c720ab4-60ca-4d4f-834b-7e12a41c42c7",
+      "parentKey": "2b0aa823-a35f-417c-96bc-3349bc172234",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": ""
+        }
+      ]
+    },
+    {
+      "key": "c8028ffa-ea56-4677-a373-aba839b3010a",
+      "parentKey": "4cdc1bec-41f7-4c24-96a0-23a10059d409",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": ""
+        }
+      ]
+    },
+    {
+      "key": "088c60e0-0397-4914-afee-8c47a1a74c65",
+      "parentKey": "2b0aa823-a35f-417c-96bc-3349bc172234",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": ""
+        }
+      ]
+    },
+    {
+      "key": "8213ae14-a882-447e-aeb0-906facb9d048",
+      "parentKey": "2b0aa823-a35f-417c-96bc-3349bc172234",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": ""
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 0,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "34px",
+          "borderRadius": "35px",
+          "padding": "16px 18px 16px 18px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px",
+          "lineColor": "rgb(113, 203, 45)"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "borderWidth": "1px",
+          "borderStyle": "solid",
+          "borderRadius": "20px",
+          "fontSize": "17px",
+          "padding": "10px 15px 10px 15px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px",
+          "lineColor": "rgb(113, 203, 45)"
+        }
+      },
+      "normalTopic": {
+        "contentStyle": {
+          "border": "1px solid #e8eaec",
+          "borderRadius": "20px",
+          "fontSize": "17px",
+          "padding": "4px 10px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px",
+          "lineColor": "white"
+        }
+      }
+    }
+  },
+  "formatVersion": "0.0"
+}
