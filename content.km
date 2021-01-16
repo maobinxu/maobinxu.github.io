@@ -3,12 +3,1733 @@
         "data": {
             "id": "c8jddxpjwio0",
             "created": 1610677119346,
-            "text": "MainTopic",
-            "note": "hhhh"
+            "text": "科学",
+            "note": null,
+            "expandState": "expand"
         },
-        "children": []
+        "children": [
+            {
+                "data": {
+                    "id": "c8kadn9e0rs0",
+                    "created": 1610770193228,
+                    "text": "数学与数据科学"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c8kamkjau540",
+                            "created": 1610770892574,
+                            "text": "理论"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c8kams7k3lk0",
+                                    "created": 1610770909278,
+                                    "text": "确定性数学"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c8kapip8fvk0",
+                                            "created": 1610771123672,
+                                            "text": "代数（数）"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8kapip8q5c0",
+                                                    "created": 1610771123672,
+                                                    "text": "算数"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8kapip8p480",
+                                                    "created": 1610771123672,
+                                                    "text": "数论"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8kapip8l480",
+                                                    "created": 1610771123672,
+                                                    "text": "代数：线性代数"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8kapip8g4g0",
+                                            "created": 1610771123672,
+                                            "text": "几何（形）"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8kapip8su00",
+                                                    "created": 1610771123672,
+                                                    "text": "解析几何"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8kapip8oo00",
+                                                    "created": 1610771123672,
+                                                    "text": "拓扑学"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8kapip95sw0",
+                                                    "created": 1610771123673,
+                                                    "text": "非欧几何"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8kapip9ib40",
+                                            "created": 1610771123673,
+                                            "text": "分析（极限）"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8kapip9gm80",
+                                                    "created": 1610771123673,
+                                                    "text": "函数论"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8kapip90o80",
+                                                    "created": 1610771123673,
+                                                    "text": "微积分"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8kapip9b9c0",
+                                                    "created": 1610771123673,
+                                                    "text": "泛函分析"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c8kamvve4f40",
+                                    "created": 1610770917250,
+                                    "text": "不确定性数学"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c8karegjbrc0",
+                                            "created": 1610771271167,
+                                            "text": "随机变量"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8karlcqdlc0",
+                                            "created": 1610771286174,
+                                            "text": "统计推断"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8karpyolpc0",
+                                                    "created": 1610771296209,
+                                                    "text": "参数估计"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8karq8n0ko0",
+                                                    "created": 1610771296811,
+                                                    "text": "假设检验"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c8kas81j6g80",
+                                                            "created": 1610771335563,
+                                                            "text": "参数检验"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "c8kas8dq4l40",
+                                                            "created": 1610771336300,
+                                                            "text": "非参数检验"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c8kamp9uzfk0",
+                            "created": 1610770902887,
+                            "text": "数据分析"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c8kb53efv9k0",
+                                    "created": 1610772344194,
+                                    "text": "机器学习"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c8kb5k1smaw0",
+                                            "created": 1610772380435,
+                                            "text": "符号学习"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8kb5k9z2g00",
+                                            "created": 1610772380929,
+                                            "text": "统计学习"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8kb6738kxk0",
+                                                    "created": 1610772430588,
+                                                    "text": "有监督学习"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c8kb6fka38o0",
+                                                            "created": 1610772449033,
+                                                            "text": "回归分析"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "c8kb6g896c80",
+                                                            "created": 1610772450482,
+                                                            "text": "分类分析"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8kb67javk80",
+                                                    "created": 1610772431559,
+                                                    "text": "无监督学习"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c8kb6klu70g0",
+                                                            "created": 1610772460011,
+                                                            "text": "聚类分析"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "c8kb6kwujn40",
+                                                            "created": 1610772460676,
+                                                            "text": "降维分析"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8kb5kc3ijc0",
+                                            "created": 1610772381058,
+                                            "text": "连接学习"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8kb5yjse1c0",
+                                                    "created": 1610772411998,
+                                                    "text": "深度学习/神经网络"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c8kb53y6hj40",
+                                    "created": 1610772345387,
+                                    "text": "强化学习"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c8jqzjakcvs0",
+                    "created": 1610715486405,
+                    "text": "人文与社会科学"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c8kaeso6r140",
+                            "created": 1610770283370,
+                            "text": "哲学"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c8kaf3roxtk0",
+                                    "created": 1610770307527,
+                                    "text": "哲学史"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c8kaf4pwu6o0",
+                                    "created": 1610770309596,
+                                    "text": "辩证唯物主义"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c8kafzx0j0o0",
+                                            "created": 1610770377506,
+                                            "text": "世界观"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8kagcfhr1s0",
+                                                    "created": 1610770404744,
+                                                    "text": "辩证唯物论"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8kag22pgow0",
+                                            "created": 1610770382204,
+                                            "text": "方法论"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8kagfg58bk0",
+                                                    "created": 1610770411314,
+                                                    "text": "唯物辩证法"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8kaf4zobuw0",
+                                            "created": 1610770310186,
+                                            "text": "历史唯物主义"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8kago0mvmo0",
+                                                    "created": 1610770429967,
+                                                    "text": "社会观"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8kagrfk06w0",
+                                                    "created": 1610770437400,
+                                                    "text": "价值观（个人）"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c8k92io02eg0",
+                            "created": 1610766500111,
+                            "text": "经济学"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c8k92o842xs0",
+                                    "created": 1610766512211,
+                                    "text": "目标"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c8k92o83ks80",
+                                            "created": 1610766512211,
+                                            "text": "经济增长"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8k92o83ko00",
+                                                    "created": 1610766512211,
+                                                    "text": "指标"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k92o83y000",
+                                                            "created": 1610766512211,
+                                                            "text": "GDP"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k92o84j400",
+                                                            "created": 1610766512212,
+                                                            "text": "GNP"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8k92o84bbk0",
+                                            "created": 1610766512212,
+                                            "text": "充分就业"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8k92o84ofc0",
+                                                    "created": 1610766512212,
+                                                    "text": "自然失业率模型"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8k92o84c5c0",
+                                            "created": 1610766512212,
+                                            "text": "物价稳定"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8k92o84bo00",
+                                            "created": 1610766512212,
+                                            "text": "国际收支平衡"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c8k92xj7jr40",
+                                    "created": 1610766532473,
+                                    "text": "理论"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c8k97fjw3q00",
+                                            "created": 1610766885153,
+                                            "text": "完全竞争市场"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8k92xvv3940",
+                                                    "created": 1610766533239,
+                                                    "text": "静态分析",
+                                                    "expandState": "collapse"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k9iho1wa80",
+                                                            "created": 1610767751764,
+                                                            "text": "短期、长期",
+                                                            "expandState": "expand"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "c8k9ju7hcsg0",
+                                                                    "created": 1610767857425,
+                                                                    "text": "总需求AD",
+                                                                    "expandState": "expand"
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "c8k9wgrpa800",
+                                                                            "created": 1610768846907,
+                                                                            "text": "消费者理论"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8k9xkql0cw0",
+                                                                                    "created": 1610768933910,
+                                                                                    "text": "效用最大化"
+                                                                                },
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "c8k9jdlitdc0",
+                                                                            "created": 1610767821268,
+                                                                            "text": "IS-LM-BP"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8k9jdlil940",
+                                                                                    "created": 1610767821268,
+                                                                                    "text": "产品市场IS"
+                                                                                },
+                                                                                "children": [
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k9jdliuxk0",
+                                                                                            "created": 1610767821268,
+                                                                                            "text": "收入支出模型"
+                                                                                        },
+                                                                                        "children": []
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8k9jdlijmo0",
+                                                                                    "created": 1610767821268,
+                                                                                    "text": "货币市场LM"
+                                                                                },
+                                                                                "children": [
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k9jdlis280",
+                                                                                            "created": 1610767821268,
+                                                                                            "text": "货币供给理论"
+                                                                                        },
+                                                                                        "children": []
+                                                                                    },
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k9jdlim480",
+                                                                                            "created": 1610767821268,
+                                                                                            "text": "货币需求理论"
+                                                                                        },
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k9jdlimeo0",
+                                                                                                    "created": 1610767821268,
+                                                                                                    "text": "凯恩斯流动性偏好理论"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8k9jdlitb40",
+                                                                                    "created": 1610767821268,
+                                                                                    "text": "国际市场BP"
+                                                                                },
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "c8k9jdlj8ao0",
+                                                                    "created": 1610767821269,
+                                                                    "text": "总供给AS",
+                                                                    "expandState": "expand"
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "c8k9x9dcvm00",
+                                                                            "created": 1610768909166,
+                                                                            "text": "厂商理论"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8k9xubpt9c0",
+                                                                                    "created": 1610768954779,
+                                                                                    "text": "成本最小化"
+                                                                                },
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8k9xubqisg0",
+                                                                                    "created": 1610768954780,
+                                                                                    "text": "利润最大化"
+                                                                                },
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "c8k9jdlizio0",
+                                                                            "created": 1610767821269,
+                                                                            "text": "供给曲线",
+                                                                            "expandState": "expand"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8k9rnoxjww0",
+                                                                                    "created": 1610768470156,
+                                                                                    "text": "凯恩斯极端（短期）"
+                                                                                },
+                                                                                "children": [
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k9rnoygo00",
+                                                                                            "created": 1610768470157,
+                                                                                            "text": "水平"
+                                                                                        },
+                                                                                        "children": []
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8k9rnoy2ww0",
+                                                                                    "created": 1610768470157,
+                                                                                    "text": "古典主义极端（长期）"
+                                                                                },
+                                                                                "children": [
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k9rnoyge80",
+                                                                                            "created": 1610768470157,
+                                                                                            "text": "垂直"
+                                                                                        },
+                                                                                        "children": []
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8k9rnoyb5k0",
+                                                                                    "created": 1610768470157,
+                                                                                    "text": "常规曲线"
+                                                                                },
+                                                                                "children": [
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k9rnoyi600",
+                                                                                            "created": 1610768470157,
+                                                                                            "text": "物价与总产出正相关"
+                                                                                        },
+                                                                                        "children": []
+                                                                                    },
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k9rnoylj40",
+                                                                                            "created": 1610768470157,
+                                                                                            "text": "粘性价格理论"
+                                                                                        },
+                                                                                        "children": []
+                                                                                    },
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k9rnoyc5k0",
+                                                                                            "created": 1610768470157,
+                                                                                            "text": "粘性工资理论"
+                                                                                        },
+                                                                                        "children": []
+                                                                                    },
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k9rnoy3iw0",
+                                                                                            "created": 1610768470157,
+                                                                                            "text": "不完全信息模型"
+                                                                                        },
+                                                                                        "children": []
+                                                                                    },
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k9rnoyjk00",
+                                                                                            "created": 1610768470157,
+                                                                                            "text": "推出菲利普斯曲线"
+                                                                                        },
+                                                                                        "children": []
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "c8k9sjws0340",
+                                                                            "created": 1610768540287,
+                                                                            "text": "劳动力市场"
+                                                                        },
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "c8k9ljx4eg00",
+                                                                    "created": 1610767991759,
+                                                                    "text": "一般均衡"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8k9uap5eww0",
+                                                    "created": 1610768676963,
+                                                    "text": "比较静态分析"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8k9oh4zuw80",
+                                                    "created": 1610768220797,
+                                                    "text": "动态分析"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k9r21gmgo0",
+                                                            "created": 1610768423024,
+                                                            "text": "短期、长期"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "c8k9r98b5tc0",
+                                                                    "created": 1610768438676,
+                                                                    "text": "动态一般均衡（DSGE）"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k955lsqsw0",
+                                                            "created": 1610766706773,
+                                                            "text": "超长期",
+                                                            "expandState": "collapse"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "c8k95a507i80",
+                                                                    "created": 1610766716641,
+                                                                    "text": "经济增长",
+                                                                    "expandState": "expand"
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "c8ka8cwzohs0",
+                                                                            "created": 1610769778889,
+                                                                            "text": "新古典增长理论",
+                                                                            "expandState": "expand"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8k95a508js0",
+                                                                                    "created": 1610766716641,
+                                                                                    "text": "哈罗德多马模型"
+                                                                                },
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8ka59wh2hs0",
+                                                                                    "created": 1610769537235,
+                                                                                    "text": "Ramsey模型"
+                                                                                },
+                                                                                "children": [
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k95a502iw0",
+                                                                                            "created": 1610766716641,
+                                                                                            "text": "索罗模型"
+                                                                                        },
+                                                                                        "children": []
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8k95a50p940",
+                                                                                    "created": 1610766716642,
+                                                                                    "text": "无限期与世代交叠模型"
+                                                                                },
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "c8k95a50jvk0",
+                                                                            "created": 1610766716642,
+                                                                            "text": "内生增长模型"
+                                                                        },
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "c8ka9bbusmo0",
+                                                                    "created": 1610769853799,
+                                                                    "text": "经济波动",
+                                                                    "expandState": "expand"
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "c8k95a50vf40",
+                                                                            "created": 1610766716642,
+                                                                            "text": "经济周期",
+                                                                            "expandState": "expand"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8k95a50kkg0",
+                                                                                    "created": 1610766716642,
+                                                                                    "text": "原因",
+                                                                                    "expandState": "expand"
+                                                                                },
+                                                                                "children": [
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k95a51j000",
+                                                                                            "created": 1610766716643,
+                                                                                            "text": "内因",
+                                                                                            "expandState": "expand"
+                                                                                        },
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a512og0",
+                                                                                                    "created": 1610766716643,
+                                                                                                    "text": "乘数加速数模型（萨缪尔森）"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a517940",
+                                                                                                    "created": 1610766716643,
+                                                                                                    "text": "实际经济周期理论（普雷斯科特）"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a513u00",
+                                                                                                    "created": 1610766716643,
+                                                                                                    "text": "货币主义经济周期理论（弗里德曼）"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a51lx40",
+                                                                                                    "created": 1610766716643,
+                                                                                                    "text": "均衡经济周期理论（卢卡斯）"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a51rzc0",
+                                                                                                    "created": 1610766716644,
+                                                                                                    "text": "投资过度理论"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a51v6g0",
+                                                                                                    "created": 1610766716644,
+                                                                                                    "text": "消费不足理论"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a521uw0",
+                                                                                                    "created": 1610766716644,
+                                                                                                    "text": "心理周期理论"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k95a51qd40",
+                                                                                            "created": 1610766716644,
+                                                                                            "text": "外因"
+                                                                                        },
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a51rqo0",
+                                                                                                    "created": 1610766716644,
+                                                                                                    "text": "太阳黑子理论"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a5234w0",
+                                                                                                    "created": 1610766716644,
+                                                                                                    "text": "政治周期理论"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a51u340",
+                                                                                                    "created": 1610766716644,
+                                                                                                    "text": "创新理论"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a51tlk0",
+                                                                                                    "created": 1610766716644,
+                                                                                                    "text": "战争革命"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8k95a51us80",
+                                                                                    "created": 1610766716644,
+                                                                                    "text": "模型",
+                                                                                    "expandState": "expand"
+                                                                                },
+                                                                                "children": [
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k95a52r5k0",
+                                                                                            "created": 1610766716645,
+                                                                                            "text": "长波"
+                                                                                        },
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a52pco0",
+                                                                                                    "created": 1610766716645,
+                                                                                                    "text": "康波周期（康德拉季耶夫）"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a52eig0",
+                                                                                                    "created": 1610766716645,
+                                                                                                    "text": "创新周期理论（熊彼特）"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k95a52tgg0",
+                                                                                            "created": 1610766716645,
+                                                                                            "text": "中波20年"
+                                                                                        },
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a52hu00",
+                                                                                                    "created": 1610766716645,
+                                                                                                    "text": "建筑周期（库茨涅茨周期）"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k95a52jio0",
+                                                                                            "created": 1610766716645,
+                                                                                            "text": "中波10年"
+                                                                                        },
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a529ew0",
+                                                                                                    "created": 1610766716645,
+                                                                                                    "text": "朱格拉周期"
+                                                                                                },
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "data": {
+                                                                                                            "id": "c8k95a52g0g0",
+                                                                                                            "created": 1610766716645,
+                                                                                                            "text": "凯恩斯经济周期"
+                                                                                                        },
+                                                                                                        "children": []
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "data": {
+                                                                                                            "id": "c8k95a52rps0",
+                                                                                                            "created": 1610766716645,
+                                                                                                            "text": "债务周期理论"
+                                                                                                        },
+                                                                                                        "children": []
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "data": {
+                                                                                                            "id": "c8k95a52d680",
+                                                                                                            "created": 1610766716645,
+                                                                                                            "text": "明斯基时刻"
+                                                                                                        },
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "data": {
+                                                                                                                    "id": "c8k95a52ieg0",
+                                                                                                                    "created": 1610766716645,
+                                                                                                                    "text": "经济危机"
+                                                                                                                },
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "data": {
+                                                                                                                            "id": "c8k95a52svs0",
+                                                                                                                            "created": 1610766716645,
+                                                                                                                            "text": "金融危机"
+                                                                                                                        },
+                                                                                                                        "children": []
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "c8k95a52j5k0",
+                                                                                            "created": 1610766716645,
+                                                                                            "text": "短波"
+                                                                                        },
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "data": {
+                                                                                                    "id": "c8k95a52tb40",
+                                                                                                    "created": 1610766716645,
+                                                                                                    "text": "基钦周期"
+                                                                                                },
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "c8kaakq2xeg0",
+                                                                            "created": 1610769952614,
+                                                                            "text": "名义冲击"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8kaazr1pdk0",
+                                                                                    "created": 1610769985324,
+                                                                                    "text": "传统凯恩斯主义"
+                                                                                },
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8kaazr22340",
+                                                                                    "created": 1610769985325,
+                                                                                    "text": "货币主义"
+                                                                                },
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8kaazr2hjc0",
+                                                                                    "created": 1610769985325,
+                                                                                    "text": "新凯恩斯主义"
+                                                                                },
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "c8kaaoge4ps0",
+                                                                            "created": 1610769960735,
+                                                                            "text": "真实冲击"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "c8kab4ad8kg0",
+                                                                                    "created": 1610769995199,
+                                                                                    "text": "真实周期模型"
+                                                                                },
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8k98qtt8d40",
+                                            "created": 1610766988062,
+                                            "text": "非完全竞争市场"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8k99kj4t7k0",
+                                                    "created": 1610767052720,
+                                                    "text": "缓冲经济系统的扭曲",
+                                                    "note": "以经济系统的均衡为主，尽可能的减少来自于外界环境的冲击"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k9b7kau4w0",
+                                                            "created": 1610767181221,
+                                                            "text": "不确定性"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k9b7kbmo00",
+                                                            "created": 1610767181222,
+                                                            "text": "不完全信息"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "c8k9b7kbeu00",
+                                                                    "created": 1610767181222,
+                                                                    "text": "信息经济学"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k9b7kboaw0",
+                                                            "created": 1610767181222,
+                                                            "text": "外部性"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8k99nv7i6o0",
+                                                    "created": 1610767059980,
+                                                    "text": "默认经济系统的扭曲",
+                                                    "note": "对经济系统的扭曲可以不做干预，如果经济系统在长时间内具有很强的弹性，并能够恢复到均衡的经济系统"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k9bkxxzts0",
+                                                            "created": 1610767210344,
+                                                            "text": "市场结构"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "c8k9bkxyq4w0",
+                                                                    "created": 1610767210345,
+                                                                    "text": "消费者剩余"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "c8k9bkxyr6o0",
+                                                                    "created": 1610767210345,
+                                                                    "text": "生产者剩余"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8k99o4u4dc0",
+                                                    "created": 1610767060562,
+                                                    "text": "吸收经济系统的扭曲",
+                                                    "note": "此种条件对经济系统的扭曲是本质性的，完全不能够进行缓冲，然后经济系统在长期中也不会恢复到系统性的结构"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k9bqnbvg80",
+                                                            "created": 1610767222763,
+                                                            "text": "博弈论"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c8k92zf23ew0",
+                                    "created": 1610766536576,
+                                    "text": "方法"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c8k96atde000",
+                                            "created": 1610766796479,
+                                            "text": "政府"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8k96ate2zs0",
+                                                    "created": 1610766796480,
+                                                    "text": "商品市场"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k96atec9s0",
+                                                            "created": 1610766796480,
+                                                            "text": "财政政策"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8k96ateg6w0",
+                                                    "created": 1610766796480,
+                                                    "text": "货币市场"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k96ate7j40",
+                                                            "created": 1610766796480,
+                                                            "text": "货币政策"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8k96ateuc00",
+                                                    "created": 1610766796481,
+                                                    "text": "国际市场"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k96ateoa00",
+                                                            "created": 1610766796481,
+                                                            "text": "商品市场"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "c8k96atewo80",
+                                                                    "created": 1610766796481,
+                                                                    "text": "贸易政策"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k96ateve00",
+                                                            "created": 1610766796481,
+                                                            "text": "货币市场"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "c8k96ateooo0",
+                                                                    "created": 1610766796481,
+                                                                    "text": "汇率政策"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c8k9yjbsvfs0",
+                            "created": 1610769009204,
+                            "text": "经济学"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c8k9z42ac340",
+                                    "created": 1610769054341,
+                                    "text": "消费理论（需求理论）"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c8k9z42afls0",
+                                            "created": 1610769054341,
+                                            "text": "效用最大化"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c8k9z42abwg0",
+                                    "created": 1610769054341,
+                                    "text": "生产理论（供给理论）"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c8k9z42aqqo0",
+                                            "created": 1610769054342,
+                                            "text": "成本最小化"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8k9z42b1y00",
+                                            "created": 1610769054342,
+                                            "text": "利润最大化"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c8k9z42b3dc0",
+                                    "created": 1610769054342,
+                                    "text": "流通理论"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c8k9zd9kq6g0",
+                                            "created": 1610769074373,
+                                            "text": "市场均衡"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8ka0491d2g0",
+                                                    "created": 1610769133113,
+                                                    "text": "一般均衡理论"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c8k9z42apyg0",
+                                                    "created": 1610769054342,
+                                                    "text": "销售者"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k9z42apg00",
+                                                            "created": 1610769054342,
+                                                            "text": "拍卖理论"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8ka0aliq6g0",
+                                            "created": 1610769146929,
+                                            "text": "市场不均衡"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c8k9z42az480",
+                                                    "created": 1610769054342,
+                                                    "text": "生产者",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c8k9z42b5b40",
+                                                            "created": 1610769054342,
+                                                            "text": "垄断，寡头"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c8k9z42ayg80",
+                                    "created": 1610769054342,
+                                    "text": "分配理论"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c8kacqbp0rk0",
+                            "created": 1610770121533,
+                            "text": "政治学"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c8katbrkz5c0",
+                                    "created": 1610771422033,
+                                    "text": "政治发展"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c8katfpkh400",
+                                            "created": 1610771430618,
+                                            "text": "马克思主义中国化"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c8kacu38ee80",
+                            "created": 1610770129729,
+                            "text": "文化学"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c8kaiw4ra8g0",
+                                    "created": 1610770604359,
+                                    "text": "语音文字学"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c8kairc87qg0",
+                                    "created": 1610770593927,
+                                    "text": "伦理学"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c8kaj6wqvsw0",
+                                    "created": 1610770627820,
+                                    "text": "文学"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c8kajdu2al40",
+                                            "created": 1610770642895,
+                                            "text": "纯文学"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8kajgavp8o0",
+                                            "created": 1610770648265,
+                                            "text": "新闻学"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c8kaj9eah9k0",
+                                    "created": 1610770633234,
+                                    "text": "艺术"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c8kajn3d0k00",
+                                            "created": 1610770663048,
+                                            "text": "音乐"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c8kajq9mm8g0",
+                                            "created": 1610770669957,
+                                            "text": "表演"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c8kahtp0bi00",
+                            "created": 1610770520689,
+                            "text": "历史学"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c8kai8od5y80",
+                                    "created": 1610770553302,
+                                    "text": "史前时期"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c8kai8odwtk0",
+                                    "created": 1610770553303,
+                                    "text": "古代史"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c8kai8odw2o0",
+                                    "created": 1610770553303,
+                                    "text": "近代史"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c8kai8odhco0",
+                                            "created": 1610770553303,
+                                            "text": "中国近代史"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c8kai8odqiw0",
+                                    "created": 1610770553303,
+                                    "text": "现代史"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c8kai8odmiw0",
+                                    "created": 1610770553303,
+                                    "text": "形势与政策"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c8k9ygmk2rs0",
+                    "created": 1610769003324,
+                    "text": "自然与工程科学"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c8kakdcacw80",
+                            "created": 1610770720184,
+                            "text": "自然科学"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c8kaklnhso00",
+                                    "created": 1610770738276,
+                                    "text": "物理学"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c8kakm9vgk00",
+                                    "created": 1610770739629,
+                                    "text": "化学"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c8kakmmjpog0",
+                                    "created": 1610770740396,
+                                    "text": "生物学"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c8kakhwvkio0",
+                            "created": 1610770730136,
+                            "text": "工程科学"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c8kakuvnco00",
+                                    "created": 1610770758360,
+                                    "text": "计算机科学"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     },
-    "template": "default",
-    "theme": "fresh-blue",
+    "template": "right",
+    "theme": "fresh-blue-compat",
     "version": "1.4.43"
 }
