@@ -4,7 +4,7 @@ E-mail: xumaobin99@foxmail.com
 
 ### Education
 
-School of Finance, Central University of Finance and Economics, China
+Bachelor of FinTech. School of Finance, Central University of Finance and Economics, China
 
 ### Working Papers
 
